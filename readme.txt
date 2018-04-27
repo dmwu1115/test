@@ -9,3 +9,4 @@ Creating a new branch is quick & simple
 Creating a new branch is quick AND simple.
 Test Fast forward
 Test --no-ff
+add server
